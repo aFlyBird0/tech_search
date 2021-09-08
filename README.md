@@ -4,7 +4,7 @@
 整个项目包含了数据获取（爬虫—）、简单数据处理、图数据库建立、算法设计、后端、前端。本项目是后端与前端与算法部分。
 爬虫部分：[BirdBirdLee/CnkiSpider: 知网爬虫](https://github.com/BirdBirdLee/CnkiSpider)
 数据处理之建库数据生成：[BirdBirdLee/data_import: 从原始数据中抽取Neo4j图数据库导入所需的csv文件](https://github.com/BirdBirdLee/data_import)
-前端：未上传
+前端：[BirdBirdLee/tech_search_front: 基于知识图谱的科技文献搜索引擎-前端](https://github.com/BirdBirdLee/tech_search_front)
 
 注意：
 1. `/src/main/resources/application.properties` 文件涉及数据库密码，已隐藏，文件内容如下：
