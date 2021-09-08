@@ -1,0 +1,37 @@
+{
+  "comment1": "这里的id和question里面的questionType对应",
+  "comment2": "其实这里最重要的是开头的词性，后面的文字是帮助理解的，没用",
+  "comment3": "后面会把词性替换成具体词汇，然后查询的时候根据模板查",
+  "comment4": "比如第0个问题, service接收到的是'0 李鹤鹏 论文'",
+  "comment5": "用n2r不用nr2是因为nr2与nr存在包含关系",
+  "classifications": [
+    {
+      "id": 0,
+      "value": "nr 论文"
+    },
+    {
+      "id": 1,
+      "value": "nr 单位"
+    },
+    {
+      "id": 2,
+      "value": "nr n2r 合作论文"
+    },
+    {
+      "id": 3,
+      "value": "m kw 年份 关键词 论文"
+    },
+    {
+      "id": 4,
+      "value": "unit 论文"
+    },
+    {
+      "id": 5,
+      "value": "unit 专家"
+    },
+    {
+      "id": 6,
+      "value": "nr kw 关于 论文"
+    }
+  ]
+}

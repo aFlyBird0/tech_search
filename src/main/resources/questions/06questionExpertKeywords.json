@@ -1,0 +1,26 @@
+{
+  "comments": "HanLP 的 人名的词性为 nr ，kw 为关键词（一般为名词居多，然后是动词），用户自定义词性",
+  "questionDescription": "nr关于kw的论文有哪些",
+  "questionType": 6,
+  "filter":
+    {
+      "mustContain":["nr", "kw"]
+    ,
+      "canNotContain":["unit", "n2r"]
+    }
+  ,
+  "questions":[
+    "nr关于kw的论文有哪些",
+    "nr关于kw的论文有",
+    "nr发表的kw的论文有哪些",
+    "nr关于kw的论文有",
+    "nr关于kw的专利有哪些",
+    "nr关于kw的专利有",
+    "nr发表的kw的专利有哪些",
+    "nr关于kw的专利有",
+    "nr的kw的专利有哪些",
+    "nr的kw的专利有",
+    "nr的kw的专利有哪些",
+    "nr的kw的专利有"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "comments": "HanLP 的人名的 词性标注为 nr ",
+  "questionDescription": "某人发表了哪些论文",
+  "questionType": 0,
+  "filter":
+    {
+      "mustContain":["nr"]
+    ,
+      "canNotContain":["unit", "n2r"]
+    }
+  ,
+  "questions": [
+    "nr发表了哪些论文",
+    "nr发布了哪些论文",
+    "nr写了哪些论文",
+    "nr创作了哪些论文",
+    "nr有哪些论文",
+    "有哪些论文是nr写的"
+  ]
+}

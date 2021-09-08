@@ -1,0 +1,32 @@
+{
+  "comments": "HanLP 的人名的 词性标注为 nr ",
+  "questionDescription": "某人任职于哪个单位",
+  "questionType": 1,
+  "filter":
+    {
+      "mustContain":["nr"]
+    ,
+      "canNotContain":["n2r"]
+    }
+  ,
+  "questions": [
+    "nr任职于哪个单位",
+    "nr就职于哪个单位",
+    "nr工作于哪个单位",
+    "nr供职于哪个单位",
+    "nr在哪个单位",
+    "nr在哪里",
+    "nr在哪里上班",
+    "nr在哪上班",
+    "nr在哪工作",
+    "nr在哪里工作",
+    "nr在哪里任职",
+    "nr在哪任职",
+    "nr在哪里就职",
+    "nr在哪就职",
+    "nr任职于哪里",
+    "nr就职于哪里",
+    "nr工作于哪里",
+    "nr供职于哪里"
+  ]
+}

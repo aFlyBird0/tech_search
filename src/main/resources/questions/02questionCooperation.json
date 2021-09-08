@@ -1,0 +1,26 @@
+{
+  "comments": "HanLP 的人名的 词性标注为 nr ",
+  "questionDescription": "与某关键词的论文有哪些",
+  "questionType": 2,
+  "filter":
+    {
+      "mustContain":["nr", "n2r"]
+    ,
+      "canNotContain":["unit"]
+    }
+  ,
+  "questions": [
+    "nr与n2r的论文有哪些",
+    "nr和n2r的专利有哪些",
+    "nr和n2r合作的论文有哪些",
+    "nr与n2r合作的论文",
+    "nr与n2r合作的论文有",
+    "nr与n2r共同发表的论文有哪些",
+    "nr与n2r共同合作的论文有哪些",
+    "nr与n2r一起发表的论文有哪些",
+    "nr与n2r合著的论文有哪些",
+    "nr与n2r的合作关系",
+    "nr与n2r的联系",
+    "nr与n2r的交集"
+  ]
+}

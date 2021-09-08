@@ -1,0 +1,32 @@
+{
+  "comments": "HanLP 的人名的 词性标注为 nr ",
+  "questionDescription": "某单位有哪些人",
+  "questionType": 5,
+  "filter": {
+    "mustContain": [
+      "unit"
+    ],
+    "canNotContain": [
+      "nr",
+      "n2r"
+    ]
+  }
+  ,
+  "questions":[
+    "unit的专家有哪些",
+    "unit的专家有",
+    "unit的专家",
+    "unit的教授有哪些",
+    "unit的教授有",
+    "unit的教授",
+    "unit有哪些专家",
+    "哪些专家在unit",
+    "哪些人在unit",
+    "unit有哪些人",
+    "unit的专家有哪些",
+    "unit的专家",
+    "unit的人",
+    "有哪些人在unit任职",
+    "哪些人在unit工作"
+  ]
+}
