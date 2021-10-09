@@ -3,10 +3,10 @@
 
 整个项目包含了数据获取（爬虫）、简单数据处理、图数据库建立、算法设计、后端、前端。本项目是后端与算法部分。  
 
-* 爬虫部分：[BirdBirdLee/CnkiSpider: 知网爬虫](https://github.com/BirdBirdLee/CnkiSpider)  
-* 数据处理之建库数据生成：[BirdBirdLee/data_import: 从原始数据中抽取Neo4j图数据库导入所需的csv文件](https://github.com/BirdBirdLee/data_import)  
+* 爬虫部分：[aFlyBird0/CnkiSpider: 知网爬虫](https://github.com/aFlyBird0/CnkiSpider)  
+* 数据处理之建库数据生成：[aFlyBird0/data_import: 从原始数据中抽取Neo4j图数据库导入所需的csv文件](https://github.com/aFlyBird0/data_import)  
 * 后端：本项目  
-* 前端：[BirdBirdLee/tech_search_front: 基于知识图谱的科技文献搜索引擎-前端](https://github.com/BirdBirdLee/tech_search_front)    
+* 前端：[aFlyBird0/tech_search_front: 基于知识图谱的科技文献搜索引擎-前端](https://github.com/aFlyBird0/tech_search_front)    
 
 **注意：**  
 
